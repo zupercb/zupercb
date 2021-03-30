@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zupercb
 - 👀 I’m interested in game mods, scuffed tech projects and exploits.
-- 🌱 I’m currently learning MQL4, Python and re-reviewing Assembly & Linux.
+- 🌱 I’m currently learning MQL4, Python and re-reviewing Assembly & ArchLinux.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:: Email is prolly the best way.
 
